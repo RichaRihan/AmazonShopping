@@ -1,0 +1,14 @@
+com\amazonShopping\pageObjects\SelectDeliveryAddress.class
+com\amazonShopping\utilities\ReadConfig.class
+com\amazonShopping\utilities\Reporting.class
+com\amazonShopping\pageObjects\ItemDetailsPage.class
+com\amazonShopping\testCases\TC_AddItemToCart_002.class
+com\amazonShopping\pageObjects\LoginPage.class
+com\amazonShopping\pageObjects\SearchResultsPage.class
+com\amazonShopping\pageObjects\PaymentPage.class
+com\amazonShopping\testCases\TC_LoginTest_001.class
+com\amazonShopping\pageObjects\CartPage.class
+com\amazonShopping\pageObjects\ReviewOrderPage.class
+com\amazonShopping\pageObjects\HomePage.class
+com\amazonShopping\testCases\BaseClass.class
+com\amazonShopping\pageObjects\DeliveryOptionsPage.class
